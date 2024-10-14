@@ -1,4 +1,4 @@
-git clone <repo link>
-cd <directory>
-npm intsall
-npm start
+# git clone <repo link>
+# cd <directory>
+# npm intsall
+# npm start
