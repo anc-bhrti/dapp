@@ -1,0 +1,31 @@
+.page-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 0;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(116, 109, 109);
+  }
+  
+  .payment-summary{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px 24px;
+    border-bottom: 1px solid rgb(101, 100, 100);
+  }
+  .pro-left{
+    flex: 1;
+  }
+  .pro-div{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .pro-div p{
+    margin-right: 12px;
+  }
